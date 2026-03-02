@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Junior Data Engineer and Data Analyst focused on building scalable data pipelines and transforming raw data into meaningful insights.  
+I am a passionate Junior Data Engineer and Data Analyst focused on building scalable data pipelines and transforming raw data into actionable insights.  
 I aim to bridge the gap between data infrastructure and business intelligence through strong engineering foundations and analytical thinking.
 
 ---
@@ -24,33 +24,49 @@ To grow as a data professional who combines Data Engineering expertise with adva
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming & Querying
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 📊 Data Analysis
+- SQL (Advanced Queries, Optimization)
+- MS SQL Server
+
+---
+
+### 🏗️ Data Engineering
+- ETL / ELT Pipelines  
+- Data Modeling  
+- Data Warehousing Concepts  
+- Apache Spark  
+- Apache Hadoop  
+- Apache Kafka  
+- Apache Airflow  
+- Informatica  
+- Docker  
+
+---
+
+### 📊 Data Analysis & BI
 - Pandas  
 - NumPy  
 - Data Cleaning  
 - Data Wrangling  
-- EDA  
-- Data Visualization  
+- Exploratory Data Analysis (EDA)  
+- Power BI  
+- Tableau  
+- Excel  
 
-### 🏗️ Data Engineering
-- ETL Pipelines  
-- Data Modeling  
-- Database Design  
-- Optimized SQL Queries  
-- Relational Databases  
+---
 
 ### ⚙️ Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
@@ -67,12 +83,12 @@ To grow as a data professional who combines Data Engineering expertise with adva
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Improving
 
-- Advanced SQL  
-- Data Warehousing  
-- Scalable Data Pipelines  
-- Performance Optimization  
+- Distributed Data Processing  
+- Real-time Data Streaming  
+- Scalable Data Architectures  
+- Advanced Analytics Techniques  
 
 ---
 
@@ -86,18 +102,4 @@ To grow as a data professional who combines Data Engineering expertise with adva
 
 ---
 
-⭐ Always open to collaboration, internships, and opportunities in Data Engineering & Data Analytics.
-<!--
-**adel-elbrolosy/adel-elbrolosy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Open to internships, collaborations, and opportunities in Data Engineering & Data Analytics.
